@@ -30,7 +30,6 @@ This project implements a **Gaussian Mixture Variational Autoencoder (GMM-VAE)**
 ## Author
 
 **Noa Konforti**  
-MSc student in Electrical Engineering. 
 This repository was created as part of a final project in a Deep Generative Models course.  
 
 [Connect with me on LinkedIn](www.linkedin.com/in/noa-konforti)
