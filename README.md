@@ -1,4 +1,4 @@
-# gmm-vae: Variational Autoencoder with Gaussian Mixture Prior
+# GMM-VAE: Variational Autoencoder with Gaussian Mixture Prior
 This project implements a **Gaussian Mixture Variational Autoencoder (GMM-VAE)** for unsupervised clustering and image generation on the MNIST dataset. The model replaces the standard normal prior in a VAE with a **learnable Gaussian Mixture Model (GMM)** prior, encouraging structured latent representations aligned with semantic classes (e.g., digit identities).
 
 > This implementation is inspired by [Dilokthanakul et al., 2017](https://arxiv.org/abs/1611.02648).
