@@ -18,13 +18,12 @@ This project implements a **Gaussian Mixture Variational Autoencoder (GMM-VAE)**
 
 ## Project Structure
  ``` 
-. ├── main.py # Entry point: training + evaluation
-├── train.py # Training loop and loss functions
-├── GMM_VAE_model.py # VAE architecture with GMM prior
-├── gmm_prior.py # GMM prior module
-├── evaluate.py # Evaluation metrics and plots
-├── figures/ # Output image visualizations
-├── README.md # You're here :)
+. ├── main.py              # Entry point: training + evaluation
+├── train.py               # Training loop and loss functions
+├── GMM_VAE_model.py       # VAE architecture with GMM prior
+├── gmm_prior.py           # GMM prior module
+├── evaluate.py            # Evaluation metrics and plots
+├── README.md              # You're here :)
  ``` 
 
 ---
